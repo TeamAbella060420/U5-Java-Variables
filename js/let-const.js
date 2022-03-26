@@ -2,5 +2,8 @@
 let score = 5;
 score += 5;
 
-let score = 20;
-console.log(score)
+
+const player = 'Skye';
+player = 'Chase';
+
+console.log(player);
